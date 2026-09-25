@@ -2,11 +2,13 @@
 
 AI-powered study tool that turns your notes into interactive flashcards, quizzes, or a mixed study set.
 
-**Live Demo:** [study-assistant.iamhimanshu.me](https://study-assistant.iamhimanshu.me)
-
 ## Demo
 
-<video src="https://github.com/user-attachments/assets/06bc3254-7ae8-4102-a3c2-8c6e9b48ee7e" controls width="100%"></video>
+A ~1:50 walkthrough of all three modes — flashcard flipping with the review-again pool, quiz lock-in and retest, and the sequential Mixed mode.
+
+<video src="https://github.com/user-attachments/assets/41cfd8df-35eb-41fb-9f18-0d3ef64bf1a8" controls width="100%"></video>
+
+Not showing? GitHub only renders `<video>` in markdown on github.com — [download the MP4 directly](https://github.com/user-attachments/assets/41cfd8df-35eb-41fb-9f18-0d3ef64bf1a8).
 
 ## Setup
 
