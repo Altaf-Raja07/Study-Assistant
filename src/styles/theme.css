@@ -1,0 +1,44 @@
+:root {
+  --color-paper: #F7F6F3;
+  --color-ink: #1B1F23;
+  --color-pencil: #6B7280;
+  --color-slate-blue: #33658A;
+  --color-slate-blue-hover: #2A5575;
+  --color-pale-slate: #EBF0F4;
+  --color-mint: #D1FAE5;
+  --color-mint-hover: #a7f3d0;
+  --color-rose: #FEE2E2;
+  --color-rose-hover: #fca5a5;
+  --color-white: #FFFFFF;
+
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-body: "Atkinson Hyperlegible", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --text-xs: clamp(0.75rem, 0.7rem + 0.2vw, 0.85rem);
+  --text-sm: clamp(0.85rem, 0.8rem + 0.2vw, 0.95rem);
+  --text-base: clamp(0.95rem, 0.9rem + 0.2vw, 1.05rem);
+  --text-lg: clamp(1.15rem, 1.05rem + 0.3vw, 1.35rem);
+  --text-xl: clamp(1.4rem, 1.25rem + 0.5vw, 1.75rem);
+  --text-2xl: clamp(1.75rem, 1.5rem + 0.8vw, 2.5rem);
+
+  --space-xs: 0.375rem;
+  --space-sm: 0.75rem;
+  --space-md: 1.25rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4.5rem;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-full: 9999px;
+
+  --shadow-card: 0 1px 3px rgba(27, 31, 35, 0.06), 0 1px 2px rgba(27, 31, 35, 0.04);
+  --shadow-card-raised: 0 4px 16px rgba(27, 31, 35, 0.08), 0 1px 4px rgba(27, 31, 35, 0.06);
+  --shadow-focus: 0 0 0 3px rgba(51, 101, 138, 0.3);
+
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 400ms ease;
+}
